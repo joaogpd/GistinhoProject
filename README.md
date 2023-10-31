@@ -31,6 +31,6 @@ The components used will be divided by whether used in tandem with the Arduino o
   - four NeoPixel LEDs by NeoPixel
   - PIR Sensor by Adafruit
   - resistors
-* D1Mini by LOLIN (NodeMCU):
+* D1Mini by Wemos (NodeMCU):
   - LM35 (analog temperature sensor) by Texas Instruments
   - DHT11 (digital temperature and humidity sensor)  
