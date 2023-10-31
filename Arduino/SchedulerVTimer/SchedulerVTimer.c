@@ -1,6 +1,4 @@
 #include "SchedulerVTimer.h"
-// Choose platform for proper timer setup and configuration
-// #include "../timer_component/MSP430FR59xxTimer.h"
 #include "ATMEGA328pTimer.h"
 
 #ifdef __cplusplus
