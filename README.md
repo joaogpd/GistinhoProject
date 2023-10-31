@@ -33,4 +33,4 @@ The components used will be divided by whether used in tandem with the Arduino o
   - resistors
 * D1Mini by LOLIN (NodeMCU):
   - LM35 (analog temperature sensor) by Texas Instruments
-  - DHT11 (digital temperature and humidty sensor)  
+  - DHT11 (digital temperature and humidity sensor)  
