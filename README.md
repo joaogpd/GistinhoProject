@@ -30,6 +30,7 @@ The components used will be divided by whether used in tandem with the Arduino o
   - two speakers
   - four NeoPixel LEDs by NeoPixel
   - PIR Sensor by Adafruit
+  - microSD Card
   - resistors
 * D1Mini by Wemos (NodeMCU):
   - LM35 (analog temperature sensor) by Texas Instruments
