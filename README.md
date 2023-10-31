@@ -1,6 +1,6 @@
 # GistinhoProject
 
-This repository contains the source code for the Gistinho project, that was submitted to Hackaday's 2023 Halloween Contest. Gistinho is a skull on a mannequin that can play sounds and blink his eyes in different colors. He's sure to cause a few spooks, beware!
+This repository contains the source code for the Gistinho project, that was submitted to Hackaday's 2023 Halloween Contest. Gistinho is a skull on a mannequin that can play sounds and blink his eyes in different colors. He can be controlled by a web page and was implemented using an Arduino and some NodeMCUs. He also doubles as a temperature and humidity sensor. He's sure to cause a few spooks!
 
 ## Authors ##
 1. Cristiane Guimarães
