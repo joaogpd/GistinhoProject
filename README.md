@@ -22,3 +22,15 @@ Arduino related source code is under the Arduino folder, divided in two subfolde
 * main: the main Arduino application code
   - main.ino: this file is executed at startup every time the Arduino device is reset. It contains all the main code logic, including blinking the leds and playing sounds
 * SchedulerVTimer: the SchedulerVTimer library, a scheduler and virtual timer library written for microcontroller applications, with the ATMega328p specific component ([this library is hosted here](https://github.com/joaogpd/SchedulerVTimer))
+
+## Components Used ##
+The components used will be divided by whether used in tandem with the Arduino or with the NodeMCUs.
+* Arduino:
+  - DFMini Player by DFRobot
+  - two speakers
+  - two NeoPixel LEDs by NeoPixel
+  - PIR Sensor by Adafruit
+  - resistors
+* NodeMCU:
+  - LM35 (analog temperature sensor) by Texas Instruments
+  - DHT11 (digital temperature and humidty sensor)  
