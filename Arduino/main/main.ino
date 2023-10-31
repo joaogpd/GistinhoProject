@@ -18,7 +18,15 @@
 // A2         PC2       
 // A3         PC3       
 // A4         PC4       
-// A5         PC5       
+// A5         PC5
+
+/**
+Required Arduino Libraries:
+ *    . Adafruit_NeoPixel by Adafruit                 
+ *    . DFRobotDFPlayerMini by DFRobot
+ *    . SoftwareSerial 
+ *    . Wire
+*/
 
 #include <Adafruit_NeoPixel.h>
 #include <SoftwareSerial.h>
