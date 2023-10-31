@@ -1,6 +1,6 @@
 # GistinhoProject
 
-This repository contains the source code for the Gistinho project, that was submitted to Hackaday's 2023 Halloween Contest.
+This repository contains the source code for the Gistinho project, that was submitted to Hackaday's 2023 Halloween Contest. Gistinho is a skull that can play sounds and blink his eyes. He's sure to give a few spooks!
 
 ## Authors ##
 1. Cristiane Guimarães
