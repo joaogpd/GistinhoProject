@@ -25,12 +25,12 @@ Arduino related source code is under the Arduino folder, divided in two subfolde
 
 ## Components Used ##
 The components used will be divided by whether used in tandem with the Arduino or with the NodeMCUs.
-* Arduino:
+* Arduino Uno R2 by Arduino:
   - DFMini Player by DFRobot
   - two speakers
   - two NeoPixel LEDs by NeoPixel
   - PIR Sensor by Adafruit
   - resistors
-* NodeMCU:
+* D1Mini by LOLIN (NodeMCU):
   - LM35 (analog temperature sensor) by Texas Instruments
   - DHT11 (digital temperature and humidty sensor)  
