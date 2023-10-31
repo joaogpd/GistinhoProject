@@ -25,7 +25,7 @@ end
 
 function setupWiFi() 
     wificonf = {
-      ssid = "wifiname",
+      ssid = "wifissid",
       pwd = "wifipassword",
       save = false,
       got_ip_cb = function(con)
