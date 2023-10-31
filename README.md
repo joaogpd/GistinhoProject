@@ -28,7 +28,7 @@ The components used will be divided by whether used in tandem with the Arduino o
 * Arduino Uno R2 by Arduino:
   - DFMini Player by DFRobot
   - two speakers
-  - two NeoPixel LEDs by NeoPixel
+  - four NeoPixel LEDs by NeoPixel
   - PIR Sensor by Adafruit
   - resistors
 * D1Mini by LOLIN (NodeMCU):
