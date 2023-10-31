@@ -7,7 +7,7 @@ This repository contains the source code for the Gistinho project, that was subm
 2. João Gabriel Peixoto
 3. Luiz Fernando Costa
 
-## Project Structure ##
+## Project Structure and Brief Explanation ##
 The project is divided in two main frameworks/platforms, Arduino and NodeMCU (with the respective folders). 
 NodeMCU related source code is under the NodeMCU folder, that is divided in two subfolders:
 * transmitter: the NodeMCU device responsible for reading the sensor data and sending it through MQTT
